@@ -549,6 +549,7 @@
 
 .main_website .contacts_us .contact_banner .container .row .col-md-5 .inner_content {
   border-radius: 5px;
+  text-align: left;
 }
 
 .main_website .contacts_us .contact_banner .container .row .col-md-5 .inner_content form input {
