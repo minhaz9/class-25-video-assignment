@@ -562,6 +562,7 @@
 .main_website .contacts_us .contact_banner .container .row .col-md-5 .inner_content form input {
   border: none;
   height: 55px;
+  width: 49%;
 }
 
 .main_website .contacts_us .contact_banner .container .row .col-md-5 .inner_content form textarea {
