@@ -555,11 +555,12 @@
   border: none;
   height: 55px;
   width: 49%;
+  display: inline-block !important;
 }
 
 .main_website .contacts_us .contact_banner .container .row .col-md-5 .inner_content form .sub {
   width: 100% !important;
-  display: block;
+  display: block !important;
 }
 
 .main_website .contacts_us .contact_banner .container .row .col-md-5 .inner_content form textarea {
