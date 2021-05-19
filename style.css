@@ -38,14 +38,6 @@
   width: 120%;
 }
 
-.main_website {
-  /* iPads to Smartphone for Common Elements ----------- */
-  /* iPads (portrait)----------- */
-  /* iPads (landscape) ----------- */
-  /* Mini Tablet ----------- */
-  /* Smartphones (portrait and landscape) ----------- */
-}
-
 .main_website .header-men {
   z-index: 999;
 }
@@ -562,6 +554,12 @@
 .main_website .contacts_us .contact_banner .container .row .col-md-5 .inner_content form input {
   border: none;
   height: 55px;
+  width: 49%;
+}
+
+.main_website .contacts_us .contact_banner .container .row .col-md-5 .inner_content form .sub {
+  width: 100% !important;
+  display: block;
 }
 
 .main_website .contacts_us .contact_banner .container .row .col-md-5 .inner_content form textarea {
