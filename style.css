@@ -563,6 +563,7 @@
   border: none;
   height: 55px;
   width: 48% !important;
+  display: inline-block;
 }
 
 .main_website .contacts_us .contact_banner .container .row .col-md-5 .inner_content form textarea {
